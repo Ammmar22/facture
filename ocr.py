@@ -24,7 +24,7 @@ from typhoon_ocr import ocr_document
 # Config
 # ─────────────────────────────────────────────────────────────
 
-os.environ['TYPHOON_OCR_API_KEY'] = "sk-0ropB1nThLRyYTDD2rI4ZihmYjHN789ejJQCPwtgNVOsBf5K"
+os.environ['TYPHOON_OCR_API_KEY'] = "your-key"
 
 print("⏳ Loading Donut model…")
 start_time = time.time()
